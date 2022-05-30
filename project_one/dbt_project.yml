@@ -39,3 +39,4 @@ models:
       +schema: staging
     example:
       +materialized: table
+      +schema: legacy
